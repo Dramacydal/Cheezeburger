@@ -1,0 +1,16 @@
+{
+  "host": "127.0.0.1",
+  "user": "root",
+  "database": "cheezeburger",
+  "password": "root",
+  "portals": [{
+    "url": "http://memebase.cheezburger.com/senorgif",
+    "table_prefix": "senor_gif",
+    "enabled": 1
+  },
+  {
+    "url": "http://icanhas.cheezburger.com/gifs",
+    "table_prefix": "animal_gifs",
+    "enabled": 1
+  }]
+}
